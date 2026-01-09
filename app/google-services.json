@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436737726134",
+    "project_id": "notificacionespush-b9186",
+    "storage_bucket": "notificacionespush-b9186.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436737726134:android:62c298ac25f59abebab817",
+        "android_client_info": {
+          "package_name": "com.example.notificacionespush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAOC1l_HnKKBoxRjy7zVNe8uGkmRIVA5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
